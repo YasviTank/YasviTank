@@ -1,5 +1,4 @@
 <h1 align="center">Hey, I'm Yasvi Tank 👋  </h1>
-<hr>
 <h3 align="center">yas-we(); // full-stack curiosity 💻</h3>
 
 <h5 align="left">🎓 CS @ University of Warwick</h5>
