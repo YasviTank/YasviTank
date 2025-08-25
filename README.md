@@ -3,6 +3,8 @@
 
 <h4 align="left">🎓 CS @ University of Warwick</h4>
 <h4 align="left">💻 Tech Team @ TEDxWarwick & Warwick Women in Engineering and Sciences</h4>
+<h4 align="left">🏆 Selected as a contributor for HSpectrum Summer of Code</h4>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
