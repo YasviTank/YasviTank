@@ -5,7 +5,7 @@
 <h5 align="left">💻 Tech Team @ TEDxWarwick & Warwick Women in Engineering and Sciences</h5>
 <h5 align="left">🏆 Selected as a contributor for HSpectrum Summer of Code</h5>
 
-
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/yasvitank/" target="blank">
