@@ -1,9 +1,9 @@
 <h1 align="center">Hey, I'm Yasvi Tank 👋  </h1>
 <h3 align="center">yas-we(); // full-stack curiosity 💻</h3>
 
-<h4 align="left">🎓 CS @ University of Warwick</h4>
-<h4 align="left">💻 Tech Team @ TEDxWarwick & Warwick Women in Engineering and Sciences</h4>
-<h4 align="left">🏆 Selected as a contributor for HSpectrum Summer of Code</h4>
+<h5 align="left">🎓 CS @ University of Warwick</h5>
+<h5 align="left">💻 Tech Team @ TEDxWarwick & Warwick Women in Engineering and Sciences</h5>
+<h5 align="left">🏆 Selected as a contributor for HSpectrum Summer of Code</h5>
 
 
 <h3 align="left">Connect with me:</h3>
