@@ -3,7 +3,7 @@
 
 <h5 align="left">🎓 CS @ University of Warwick </h5>
 <h5 align="left">💻 Tech Team @ TEDxWarwick & Warwick Women in Engineering and Sciences </h5>
-<h5 align="left">🏆 Selected as a contributor for HSpectrum Summer of Code 2025 </h5>
+<h5 align="left">🚀 HSpectrum Summer of Code 2025 — Contributor & 2nd Place Mentee Award 🏆 </h5>
 
 <hr>
 <h3 align="left">Connect with me:</h3>
